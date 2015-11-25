@@ -1,0 +1,10 @@
+report.js
+=========
+
+javascript to put the returned data in a .csv file
+
+--> for chrome and firefox
+create a download <a> tag
+
+--> else
+create a generic <a> tag to download the stream
